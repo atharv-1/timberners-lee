@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    
+}
+#welcome{
+    background-image: linear-gradient(cyan,green,#8F141B);
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+#name{
+    font-size: 40px;
+    color: #FAFFFD;
+    font-family: 'Style Script', cursive;
+}
+#e43{
+border-radius: 30%;
+    width: 400px;
+}
+#bio{
+    background-color: aquamarine;
+    font-size:20px;
+    color: black;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.menu{
+    list-style: none;
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    z-index: 10px;
+    
+}
+.links{
+    float: left;
+    color: darkblue;
+    font-size:30px;
+  padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
